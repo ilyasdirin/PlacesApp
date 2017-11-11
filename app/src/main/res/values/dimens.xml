@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="item_width">200dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="spacingXSmall">3dp</dimen>
+    <dimen name="spacingSmall">5dp</dimen>
+    <dimen name="spacingMedium">10dp</dimen>
+    <dimen name="spacingLarge">15dp</dimen>
+    <dimen name="spacingXLarge">20dp</dimen>
+    <dimen name="spacingXXLarge">30dp</dimen>
+
+    <!-- Card Item -->
+    <dimen name="cardViewRadius">3dp</dimen>
+    <dimen name="cardViewElevation">2dp</dimen>
+
+</resources>
